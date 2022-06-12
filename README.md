@@ -16,7 +16,7 @@ I'm full stack software engineer and designer with 10+ years experience, especia
 
 ### Notable OSS Contributions
 
-- Currently I'm working on TypeScript and MUI performance.
+- Currently I'm working on TypeScript Compiler and MUI type check performance.
   https://github.com/mui/material-ui/pull/27381
 - 10x speed up on slow path in TypeScript type checker, affects MUI and emotion.
   https://github.com/microsoft/TypeScript/issues/45195

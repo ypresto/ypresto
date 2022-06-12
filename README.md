@@ -10,8 +10,7 @@ I'm full stack software engineer and designer with 10+ years experience, especia
 
 ### Works
 
-- 入りやすい保育園マップ (nursery school map visualizes admission difficulty) which is a finalist of OpenData Hackathon held by Tokyo Metropolitan Government.
-  https://hoikuen-hairu.com/
+- [入りやすい保育園マップ](https://hoikuen-hairu.com/) (nursery school map visualizes admission difficulty) which is a finalist of OpenData Hackathon held by Tokyo Metropolitan Government. With [@sagaraya](https://github.com/sagaraya).
 - See pinned repo and [Qiita](https://qiita.com/yuya_presto).
 
 ### Notable OSS Contributions

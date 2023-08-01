@@ -21,4 +21,8 @@ I'm full stack software engineer and designer with 10+ years experience, especia
   https://github.com/microsoft/TypeScript/issues/45195
 - Reported a bug in Xamarin.Forms which caused possible data-loss in COCOA (COVID-19 Contact-Confirming Application).
   https://github.com/xamarin/Xamarin.Forms/issues/13676
+- Fix performance issue in Node.js child_process, improved 2x-4x
+  https://github.com/nodejs/node/pull/10557
+- Added RuboCop rules to check unexpected return in interator
+  https://github.com/rubocop/rubocop/pull/1728
 - See [public pull requests](https://github.com/pulls?q=is%3Apr+author%3Aypresto+is%3Apublic).

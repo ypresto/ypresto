@@ -26,5 +26,5 @@ I'm full stack software engineer and designer with 10+ years experience, especia
 - Added RuboCop rules to check unexpected return in interator
   https://github.com/rubocop/rubocop/pull/1728
 - See [public pull requests](https://github.com/pulls?q=is%3Apr+author%3Aypresto+is%3Apublic).
-- Notable StackOverflow answer: "JavaScript: How come map.has is so much faster than set.has and array.indexOf?"
+- Notable StackOverflow answer: "JavaScript: How come map.has is so much faster than set.has and array.indexOf?" (dive into V8 code)
   https://stackoverflow.com/a/69338420/1474113
